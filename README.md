@@ -100,32 +100,34 @@ Steps:
 
 ---
 
+```
 ## Repository Structure
 ├── notebooks/
-│ ├── da627-project-rag-no-rag.ipynb
-│ ├── da627-project-rag-no-rag-mscoco.ipynb
-│ ├── da627-project-llm-study.ipynb
-│ ├── da627-project-llm-study-mscoco.ipynb
-│ ├── da627-project-encoder-study.ipynb
-│ ├── da627-project-encoder-study-mscoco.ipynb
-│ ├── da627-project-recall-study.ipynb
-│ ├── da627-project-recall-study-mscoco.ipynb
-│ └── hello.py
+│   ├── da627-project-rag-no-rag.ipynb
+│   ├── da627-project-rag-no-rag-mscoco.ipynb
+│   ├── da627-project-llm-study.ipynb
+│   ├── da627-project-llm-study-mscoco.ipynb
+│   ├── da627-project-encoder-study.ipynb
+│   ├── da627-project-encoder-study-mscoco.ipynb
+│   ├── da627-project-recall-study.ipynb
+│   ├── da627-project-recall-study-mscoco.ipynb
+│   └── hello.py
 │
 ├── results/
-│ ├── encoder16_vs_encoder32_rag_500_flickr.csv
-│ ├── encoder16_vs_encoder32_rag_500_mscoco.csv
-│ ├── phi_vs_llava_rag_500_flickr.csv
-│ ├── phi_vs_llava_rag_500_mscoco.csv
-│ ├── rag_quality_vs_recall_200_flickr.csv
-│ ├── rag_quality_vs_recall_200_mscoco.csv
-│ ├── rag_vs_no_rag_200_mscoco.csv
-│ └── rag_vs_no_rag_500_partial_flickr.csv
+│   ├── encoder16_vs_encoder32_rag_500_flickr.csv
+│   ├── encoder16_vs_encoder32_rag_500_mscoco.csv
+│   ├── phi_vs_llava_rag_500_flickr.csv
+│   ├── phi_vs_llava_rag_500_mscoco.csv
+│   ├── rag_quality_vs_recall_200_flickr.csv
+│   ├── rag_quality_vs_recall_200_mscoco.csv
+│   ├── rag_vs_no_rag_200_mscoco.csv
+│   └── rag_vs_no_rag_500_partial_flickr.csv
 │
 ├── DA627 Final presentation-220150019.pdf
 ├── DA627_220150019_course_project_report.pdf
 ├── LICENSE
 └── README.md
+```
 
 ---
 
